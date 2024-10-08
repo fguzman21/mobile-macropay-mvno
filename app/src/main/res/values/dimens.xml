@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- buttons -->
+    <dimen name="small_circular_button_default_size">32dp</dimen>
+    <dimen name="small_appbar_logo_default_height">27dp</dimen>
+    <dimen name="normal_button_height">48dp</dimen>
+    <dimen name="normal_button_text_size">16sp</dimen>
+
+    <!-- text fields -->
+    <dimen name="normal_textfield_height">46dp</dimen>
+
+    <!-- icons and logos -->
+    <dimen name="small_icon_password_indication_size">24dp</dimen>
+    <dimen name="medium_featured_illustration_size">140dp</dimen>
+    <dimen name="big_featured_illustration_size">180dp</dimen>
+    <dimen name="huge_featured_illustration_size">240dp</dimen>
+    <dimen name="medium_icon_call_indication_size">48dp</dimen>
+    <dimen name="warranty_icon_size">48dp</dimen>
+    <dimen name="warranty_image_height">77dp</dimen>
+    <dimen name="warranty_image_header_height">128dp</dimen>
+
+    <!-- margenes -->
+    <dimen name="marginStandar">16dp</dimen>
+    <dimen name="marginH05x">9dp</dimen>
+    <dimen name="marginH1x">18dp</dimen>
+    <dimen name="marginH15x">27dp</dimen>
+    <dimen name="marginH2x">36dp</dimen>
+    <dimen name="marginH3x">54dp</dimen>
+    <dimen name="marginH4x">72dp</dimen>
+    <dimen name="marginV025x">4.5dp</dimen>
+    <dimen name="marginV05x">9dp</dimen>
+    <dimen name="marginV1x">18dp</dimen>
+    <dimen name="marginV15x">27dp</dimen>
+    <dimen name="marginV2x">36dp</dimen>
+    <dimen name="marginV25x">45dp</dimen>
+    <dimen name="marginV3x">54dp</dimen>
+    <dimen name="marginV4x">72dp</dimen>
+    <dimen name="marginV5x">90dp</dimen>
+    <dimen name="marginV01x">16dp</dimen>
+    <dimen name="marginV01xx">12dp</dimen>
+
+    <!-- Weights -->
+    <dimen name="setentaF">70f</dimen>
+
+</resources>

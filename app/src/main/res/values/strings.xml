@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">mobile-macropay-mvno</string>
+    <!-- Header -->
+    <string name="greeting_day">¡Buenos días!</string>
+    <string name="greeting_afternoon">¡Buenas tardes!</string>
+    <string name="greeting_nigth">¡Buenas noches!</string>
+
+    <!-- Main menu -->
+    <string name="main_menu_name_home">SIM Macropay</string>
+    <string name="main_menu_name_recharges">Recargas y planes</string>
+    <string name="main_menu_name_portability">Portabilidad</string>
+    <string name="main_menu_name_help">Ayuda y soporte</string>
+
+
+    <!-- Home -->
+
+    <!-- Planes activos -->
+    <string name="hp_mi_plan">Mi plan</string>
+    <string name="hp_mas_datos">Más datos</string>
+    <string name="hp_datos_plan_actual">Mi plan actual</string>
+    <string name="hp_datos_plan_adicional">Plan de datos adicionales</string>
+    <string name="hp_datos_disponibles">Diponibles</string>
+    <string name="hp_datos_totales">Datos Totales</string>
+    <string name="hp_datos_usados">Datos Usados</string>
+    <string name="hp_ddatos_disponibles">Datos disponibles: </string>
+    <string name="hp_datos_vigencia">Vigencia: </string>
+    <string name="hp_datos_vence">Vence en: </string>
+    <string name="h_mas_datos">Agregar más datos</string>
+
+    <!-- Planes disponibles -->
+    <string name="havp_dias">%d  días</string>
+    <string name="havp_content">Llamadas, SMS y redes sociales ilimitados*</string>
+    <string name="havp_btn_recargar">Recargar ahora</string>
+    <string name="havp_ley_one_recargar">*Solo en (México, USA y Canadá),</string>
+    <string name="havp_ley_two_recargar">aplica política de uso justo</string>
+    <string name="havp_btn_ver_planes">Ver más recargas y planes</string>
+
+    <!-- Puntos de recargar -->
+    <string name="havp_puntos">Puntos de recarga</string>
+    <string name="havpr_abierto">Abierto</string>
+    <string name="havpr_cerrado">Cerrado</string>
+</resources>
