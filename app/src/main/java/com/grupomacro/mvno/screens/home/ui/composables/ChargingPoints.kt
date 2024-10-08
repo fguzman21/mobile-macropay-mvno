@@ -50,7 +50,6 @@ import com.google.accompanist.pager.HorizontalPager
 import com.google.accompanist.pager.rememberPagerState
 import com.google.android.gms.maps.model.LatLng
 import com.grupomacro.mvno.R
-import com.grupomacro.mvno.core.ui.composables.NormalButtonContent
 import com.grupomacro.mvno.core.ui.composables.TitleMediumText
 import com.grupomacro.mvno.core.ui.theme.customColors
 
